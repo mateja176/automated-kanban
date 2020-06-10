@@ -10,7 +10,7 @@
 - [ ] create project from automated kanban template
 - [ ] create issue
   - [ ] add meta data to the issue
-    - [ ] assignee: _mytee306_
+    - [ ] assignee: _maeja176_
     - [ ] label: _enhancement_
     - [ ] project: _Automated Kanban Project_
 - [ ] check automated kanban
@@ -41,5 +41,5 @@
 
 ## Requirements
 
-- [ ] github account: _mytee306_
+- [ ] github account: _mateja176_
 - [ ] code editor: _vscode_
