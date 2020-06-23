@@ -10,7 +10,7 @@
 - [ ] create project from automated kanban template
 - [ ] create issue
   - [ ] add meta data to the issue
-    - [ ] assignee: _maeja176_
+    - [ ] assignee: _mateja176_
     - [ ] label: _enhancement_
     - [ ] project: _Automated Kanban Project_
 - [ ] check automated kanban
